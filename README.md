@@ -1,12 +1,12 @@
-# pvea-proxmox
-pvea-proxmox (pronounced pea-va) is a modern and up-to-date node.js client for the proxmox api. Note: This is a reupload of pvea package of Jade Cole! 
+# pvea_proxmox
+pvea_proxmox (pronounced pea-va) is a modern and up-to-date node.js client for the proxmox api. Note: This is a reupload of pvea package of Jade Cole! 
 
 ###### [Proxmox API wiki.](https://pve.proxmox.com/wiki/Proxmox_VE_API)
 ###### [Proxmox API documentation.](https://pve.proxmox.com/pve-docs/api-viewer/index.html)
 
 ## Installation:
 
-  `npm i pvea-proxmox` or  `yarn add pvea-proxmox`.
+  `npm i pvea_proxmox` or  `yarn add pvea_proxmox`.
 
 
 ## To-Do List:

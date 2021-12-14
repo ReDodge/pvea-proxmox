@@ -1,5 +1,5 @@
 {
-  "name": "pvea-proxmox",
+  "name": "pvea_proxmox",
   "version": "1.0.0",
   "description": "proxmox api library for node.js.",
   "main": "../lib/pvea.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+//github.com:ReDodge/proxmox_pvea.git"
+    "url": "git+//github.com:ReDodge/pvea-proxmox.git"
   },
   "keywords": [
     "pvea",
@@ -23,9 +23,9 @@
   "author": "redodge",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ReDodge/proxmox_pvea/issues"
+    "url": "https://github.com/ReDodge/pvea-proxmox/issues"
   },
-  "homepage": "https://github.com/ReDodge/proxmox_pvea#readme",
+  "homepage": "https://github.com/ReDodge/pvea-proxmox#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "colors": "^1.4.0"
